@@ -1,0 +1,8 @@
+#CREATE request parameters
+string effector
+float64[] position
+float64 speed 
+float64 time
+--------------------------------
+#CREATE response parameters
+string status

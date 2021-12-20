@@ -1,0 +1,4 @@
+Both Meanshift and Camshift work in a similar manner. A selected image is displayed and a shape (such as a rectangle) is drawn onto it.
+Given a histogram of pixel values of a template image, the algorithms try to find the part of the selected image that has the most similar distribution of pixel values to the template. 
+Then the drawn shape is moved in such way that its center coincides with the most similar distribution.
+The main difference lies in the variation of the drawn shape. While in Meanshift the shape size and inclination remain fixed, being the same as the template image, both of them change in Camshift, depending on the size and inclination of the most similar part found.

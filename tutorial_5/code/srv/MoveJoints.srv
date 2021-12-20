@@ -1,0 +1,9 @@
+#CREATE request parameters
+string motion_type
+string[] joints
+float64[] angles
+float64 speed 
+float64[] times
+--------------------------------
+#CREATE response parameters
+string status
