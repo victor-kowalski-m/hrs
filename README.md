@@ -1,6 +1,6 @@
 # Humanoid Robotic Systems tutorials
 
-Code for the tutorials from the course Humanoid Robotic Systems at TUM. All the tasks were completed using the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) and ROS. Tutorials 3 and 4 were an introduction to computer vision using NAO's camera and tutorials 5, 6 and 7 implemented movement and other features.
+Code for the tutorials from the course Humanoid Robotic Systems at TUM. All the tasks were implemented using the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) and ROS. Tutorials 3 and 4 were an introduction to computer vision using NAO's camera and tutorials 5, 6 and 7 included movement and other features.
 
 <!---- [Tutorial 3: Vision – Feature extraction](tutorial_3)-->
 - [Tutorial 4: Vision – Object detection, tracking, optical flow, and marker detection by ArUco](tutorial_4)<br><br>Sample (Optical Flow):<br><br>![opt](tutorial_4/opticalFlow.png)
