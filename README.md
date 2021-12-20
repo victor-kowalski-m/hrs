@@ -1,8 +1,6 @@
 # Humanoid Robotic Systems tutorials
 
-Code for the tutorials from the course Humanoid Robotic Systems at TUM.
-
-In these tutorials, ROS was used for the control of the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao).
+Code for the tutorials from the course Humanoid Robotic Systems at TUM. In these tutorials, ROS was used for the control of the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao).
 
 <!---- [Tutorial 3: Vision – Feature extraction](tutorial_3)-->
 - [Tutorial 4: Vision – Object detection, tracking, optical flow, and marker detection by ArUco](tutorial_4)<br><br>Sample (Optical Flow):<br><br>![opt](tutorial_4/opticalFlow.png)
