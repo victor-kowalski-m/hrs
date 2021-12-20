@@ -2,7 +2,8 @@
 
 Code for the tutorials from the course Humanoid Robotic Systems at TUM. All the tasks were implemented using the [NAO Robot](https://www.softbankrobotics.com/emea/en/nao) and ROS Kinetic. Tutorials 3 and 4 were an introduction to computer vision using NAO's camera and tutorials 5, 6 and 7 included movement and other features.
 
-<!---- [Tutorial 3: Vision – Feature extraction](tutorial_3)-->
+- [Tutorial 3: Vision – Feature extraction](tutorial_3)<br><br>Sample (Detection of circular shapes):<br><br>![opt](tutorial_3/task7.png)
+
 - [Tutorial 4: Vision – Object detection, tracking, optical flow, and marker detection by ArUco](tutorial_4)<br><br>Sample (Optical Flow):<br><br>![opt](tutorial_4/opticalFlow.png)
 
 - [Tutorial 5: Introduction to Joint Control on NAO](tutorial_5)<br><br>Sample (Reactive Head Tracking of an Aruco Marker):<br><br>![5comp](https://user-images.githubusercontent.com/70666266/146788625-c5b8c025-5b1a-41ad-a841-56e018079954.gif)
